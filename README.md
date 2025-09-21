@@ -2,7 +2,7 @@
 - 👀 I’m interested in deploy aplications
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on IA Proyects to make customs ans tools like functions for decapability visual users
-- 📫 How to reach me ... at https://imyourvision.com
+- 📫 How to reach me ... at https://gatohueso.blog/
 - 😄 Pronouns: ... he 
 - ⚡ Fun fact: ... Bonetakers ill a magical game
   <!---
